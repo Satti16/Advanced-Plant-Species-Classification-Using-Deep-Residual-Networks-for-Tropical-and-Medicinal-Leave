@@ -1,0 +1,2 @@
+# Advanced-Plant-Species-Classification-Using-Deep-Residual-Networks-for-Tropical-and-Medicinal-Leave
+ LeafNet-Res is a deep learning-based system developed for accurate and automated classification of tropical and medicinal plant leaves. The system is designed using ResNet101/152 (deep residual networks) and aims to address the limitations of manual plant identification methods which are often time-consuming, error-prone, and not scalable
